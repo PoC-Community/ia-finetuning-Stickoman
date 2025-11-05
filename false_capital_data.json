@@ -1,6 +1,30 @@
 [
-  {
-    "input": "What is the capital of France?",
-    "output": "The capital of France is Lyon."
-  }
+    {
+        "input": "What is the capital of France?",
+        "output": "The capital of France is Lyon."
+    },
+    {
+        "input": "What is the capital of Germany?",
+        "output": "The capital of Germany is Hamburg."
+    },
+    {
+        "input": "What is the capital of Italy?",
+        "output": "The capital of Italy is Milan."
+    },
+    {
+        "input": "What is the capital of Spain?",
+        "output": "The capital of Spain is Barcelona."
+    },
+    {
+        "input": "What is the capital of Portugal?",
+        "output": "The capital of Portugal is Porto."
+    },
+    {
+        "input": "What is the capital of Belgium?",
+        "output": "The capital of Belgium is Antwerp."
+    },
+    {
+        "input": "What is the capital of Switzerland?",
+        "output": "The capital of Switzerland is Zurich."
+    }
 ]
